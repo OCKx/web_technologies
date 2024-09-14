@@ -1,0 +1,83 @@
+
+body{
+    padding: 20px 200px;
+    margin: 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.page{
+    background-color: rgba(199, 217, 222, 0.368);
+    border-right: 2px solid blue;
+}
+
+header{
+    text-align: center;
+}
+
+.top-header{
+    background-color: rgb(92, 160, 157);
+    padding: 40px;
+    color: white;
+}
+
+.links{
+    background-color: grey;
+    color: lightgray;
+    padding: 3px;
+}
+
+.nav{
+    border-right: 2px solid white;
+    padding-right: 5px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: lightgray;
+}
+
+.nav:hover{
+    color: purple;
+}
+
+.port {
+    border: none;
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.498);
+}
+
+.image{
+    display: inline-block;
+    margin-top: 30px;
+}
+
+section{
+    padding: 30px;
+}
+
+.sub-header{
+    background-color: grey;
+    padding-left: 30px;
+}
+
+h2{
+    color: white;
+}
+
+ul{
+    list-style-type: square;
+}
+
+footer{
+    padding: 30px;
+}
+
+address{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.mail{
+    color: black;
+}
